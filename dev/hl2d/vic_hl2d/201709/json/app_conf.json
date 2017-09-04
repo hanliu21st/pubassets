@@ -14,8 +14,8 @@
               "as_01"
           ],
   "asset_img_path": [
-              "static/img/engine_asset_1000by1000_template.png",
-              "static/img/engine_asset_1000by1000_template.png"
+              "https://raw.githubusercontent.com/hanliu21st/pubassets/master/dev/hl2d/vic_hl2d/201709/img/engine_asset_1000by1000_template.png",
+              "https://raw.githubusercontent.com/hanliu21st/pubassets/master/dev/hl2d/vic_hl2d/201709/img/img/engine_asset_1000by1000_template.png"
           ],
   "asset_hi_ids":
           [
@@ -23,8 +23,8 @@
               "as_hi_01"
           ],
   "asset_hi_img_path": [
-              "static/img/engine_asset_3000by3000_template.png",
-              "static/img/engine_asset_1000by1000_template.png"
+              "https://raw.githubusercontent.com/hanliu21st/pubassets/master/dev/hl2d/vic_hl2d/201709/img/engine_asset_3000by3000_template.png",
+              "https://raw.githubusercontent.com/hanliu21st/pubassets/master/dev/hl2d/vic_hl2d/201709/img/engine_asset_1000by1000_template.png"
           ],
   "brand_ids":
           [
@@ -41,17 +41,17 @@
               "br_999"
           ],
   "brand_img_path": [
-              "static/img/000_nike.jpg",
-              "static/img/001_adidas.jpg",
-              "static/img/002_new_balance.jpg",
-              "static/img/003_puma.jpg",
-              "static/img/004_lining.jpg",
-              "static/img/005_converse.jpg",
-              "static/img/006_reebok.jpg",
-              "static/img/007_under_armour.jpg",
-              "static/img/008_gap.jpg",
-              "static/img/009_vans.jpg",
-              "static/img/000_nike.jpg"
+              "https://raw.githubusercontent.com/hanliu21st/pubassets/master/dev/hl2d/vic_hl2d/201709/img/000_nike.jpg",
+              "https://raw.githubusercontent.com/hanliu21st/pubassets/master/dev/hl2d/vic_hl2d/201709/img/001_adidas.jpg",
+              "https://raw.githubusercontent.com/hanliu21st/pubassets/master/dev/hl2d/vic_hl2d/201709/img/002_new_balance.jpg",
+              "https://raw.githubusercontent.com/hanliu21st/pubassets/master/dev/hl2d/vic_hl2d/201709/img/003_puma.jpg",
+              "https://raw.githubusercontent.com/hanliu21st/pubassets/master/dev/hl2d/vic_hl2d/201709/img/004_lining.jpg",
+              "https://raw.githubusercontent.com/hanliu21st/pubassets/master/dev/hl2d/vic_hl2d/201709/img/005_converse.jpg",
+              "https://raw.githubusercontent.com/hanliu21st/pubassets/master/dev/hl2d/vic_hl2d/201709/img/006_reebok.jpg",
+              "https://raw.githubusercontent.com/hanliu21st/pubassets/master/dev/hl2d/vic_hl2d/201709/img/007_under_armour.jpg",
+              "https://raw.githubusercontent.com/hanliu21st/pubassets/master/dev/hl2d/vic_hl2d/201709/img/008_gap.jpg",
+              "https://raw.githubusercontent.com/hanliu21st/pubassets/master/dev/hl2d/vic_hl2d/201709/img/009_vans.jpg",
+              "https://raw.githubusercontent.com/hanliu21st/pubassets/master/dev/hl2d/vic_hl2d/201709/img/000_nike.jpg"
           ],
   "_end_conf":
           [
