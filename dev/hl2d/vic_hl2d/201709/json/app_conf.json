@@ -1,0 +1,62 @@
+{
+  "Name": "Han Liu",
+  "Profession": "Developer",
+  "Age": "n/a",
+  "_inf": 
+          [
+              "copyright - Han Liu 2017",
+              "intro - ",
+              "end"
+          ],
+  "asset_ids":
+          [
+              "as_00",
+              "as_01"
+          ],
+  "asset_img_path": [
+              "static/img/engine_asset_1000by1000_template.png",
+              "static/img/engine_asset_1000by1000_template.png"
+          ],
+  "asset_hi_ids":
+          [
+              "as_hi_00",
+              "as_hi_01"
+          ],
+  "asset_hi_img_path": [
+              "static/img/engine_asset_3000by3000_template.png",
+              "static/img/engine_asset_1000by1000_template.png"
+          ],
+  "brand_ids":
+          [
+              "br_000",
+              "br_001",
+              "br_002",
+              "br_003",
+              "br_004",
+              "br_005",
+              "br_006",
+              "br_007",
+              "br_008",
+              "br_009",
+              "br_999"
+          ],
+  "brand_img_path": [
+              "static/img/000_nike.jpg",
+              "static/img/001_adidas.jpg",
+              "static/img/002_new_balance.jpg",
+              "static/img/003_puma.jpg",
+              "static/img/004_lining.jpg",
+              "static/img/005_converse.jpg",
+              "static/img/006_reebok.jpg",
+              "static/img/007_under_armour.jpg",
+              "static/img/008_gap.jpg",
+              "static/img/009_vans.jpg",
+              "static/img/000_nike.jpg"
+          ],
+  "_end_conf":
+          [
+              "note",
+              "- ",
+              "end"
+          ]
+}
