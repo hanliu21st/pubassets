@@ -28,22 +28,8 @@
             "https://raw.githubusercontent.com/hanliu21st/pubassets/master/dev/hl2d/vic_hl2d/201709/img/engine_asset_3000by3000_template.png",
             "https://raw.githubusercontent.com/hanliu21st/pubassets/master/dev/hl2d/vic_hl2d/201709/img/engine_asset_1000by1000_template.png"
         ],
-    "brand_ids":
-            [
-                "br_000",
-                "br_001",
-                "br_002",
-                "br_003",
-                "br_004",
-                "br_005",
-                "br_006",
-                "br_007",
-                "br_008",
-                "br_009",
-                "br_999"
-            ],
     "row_img": {
-        "ids": ["br_000","br_001","br_002","br_003","br_004","br_005","br_006","br_007","br_008","br_009"],
+        "ids": ["rm_000","rm_001","rm_002","rm_003","rm_004","rm_005","rm_006","rm_007","rm_008","rm_009"],
         "path_prefix": "https://raw.githubusercontent.com/hanliu21st/pubassets/master/dev/hl2d/vic_hl2d/201709/img/png/",
         "pathes":[
             "000_nike.png",
@@ -58,20 +44,23 @@
             "009_vans.png"
         ]
     },
-    "brand_img_path": 
-        [
-            "https://raw.githubusercontent.com/hanliu21st/pubassets/master/dev/hl2d/vic_hl2d/201709/img/png/000_nike.png",
-            "https://raw.githubusercontent.com/hanliu21st/pubassets/master/dev/hl2d/vic_hl2d/201709/img/png/001_adidas.png",
-            "https://raw.githubusercontent.com/hanliu21st/pubassets/master/dev/hl2d/vic_hl2d/201709/img/png/002_new_balance.png",
-            "https://raw.githubusercontent.com/hanliu21st/pubassets/master/dev/hl2d/vic_hl2d/201709/img/png/003_puma.png",
-            "https://raw.githubusercontent.com/hanliu21st/pubassets/master/dev/hl2d/vic_hl2d/201709/img/png/004_lining.png",
-            "https://raw.githubusercontent.com/hanliu21st/pubassets/master/dev/hl2d/vic_hl2d/201709/img/png/005_converse.png",
-            "https://raw.githubusercontent.com/hanliu21st/pubassets/master/dev/hl2d/vic_hl2d/201709/img/png/006_reebok.png",
-            "https://raw.githubusercontent.com/hanliu21st/pubassets/master/dev/hl2d/vic_hl2d/201709/img/png/007_under_armour.png",
-            "https://raw.githubusercontent.com/hanliu21st/pubassets/master/dev/hl2d/vic_hl2d/201709/img/png/008_gap.png",
-            "https://raw.githubusercontent.com/hanliu21st/pubassets/master/dev/hl2d/vic_hl2d/201709/img/png/009_vans.png",
-            "https://raw.githubusercontent.com/hanliu21st/pubassets/master/dev/hl2d/vic_hl2d/201709/img/png/000_nike.png"
-        ],
+    "brand_img": {
+        "ids": ["br_000","br_001","br_002","br_003","br_004","br_005","br_006","br_007","br_008","br_009","br_999"],
+        "path_prefix": "https://raw.githubusercontent.com/hanliu21st/pubassets/master/dev/hl2d/vic_hl2d/201709/img/",
+        "pathes":[
+            "000_nike.png",
+            "001_adidas.png",
+            "002_new_balance.png",
+            "003_puma.png",
+            "004_lining.png",
+            "005_converse.png",
+            "006_reebok.png",
+            "007_under_armour.png",
+            "008_gap.png",
+            "009_vans.png",
+            "image_loading.gif"
+        ]
+    },
     "_end_conf":
         [
             "note",
